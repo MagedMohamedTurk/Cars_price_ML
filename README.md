@@ -6,4 +6,4 @@ Using Python( Pandas, Statsmodels, Scikit, Matplotlib and Scikit Learn packages)
 3. Use visualization charts to emphasis different relationships.
 4. Building a predictive linear regression model using Statsmodels.
 5. Building a predicitive machine learning (linear regression) model using Sci-kit learn.
-6. Modeling using Radomforest Regressor, reaching 97% R2 score.
+6. Modeling using Radomforest Regressor, reaching 93% R2 score.
